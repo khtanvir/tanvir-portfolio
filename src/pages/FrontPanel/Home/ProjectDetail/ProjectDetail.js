@@ -59,7 +59,7 @@ const projectData = [
     imgThree: projectImgSixTwo,
     price: 0,
     liveUrl: "",
-    gitUrl: "",
+    gitUrl: "https://github.com/khtanvir/core_lms.git",
   },
   {
     id: 7,
